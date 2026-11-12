@@ -1,5 +1,5 @@
     {
-      "version": "1.2.8",
+      "version": "1.3.0",
       "date": "2026-11-6",
       "url": "https://drive.google.com/file/d/1nxSUU3aq_64Vd-rrbJG9kvQaEmgin5iR/view?usp=drive_link",
       "notes": [
@@ -9,6 +9,7 @@
     "A Steam é encontrada mesmo instalada noutro disco ou pasta",
     "Corrigido o erro ao carregar saves com bases de dados muito grandes",
     "Ajuda: depois de mudar o onze inicial, abre a Eficácia táctica e usa Repor sugestão",
+    "Mais treino tático nas semanas com dois jogos",
     "Se encontrarem algum bug ou tiverem sugestões, é só avisarem-me"
       ]
     }
