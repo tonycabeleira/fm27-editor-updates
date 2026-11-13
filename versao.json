@@ -1,15 +1,9 @@
     {
-      "version": "1.4.0",
+      "version": "1.4.1",
       "date": "2026-11-6",
       "url": "https://drive.google.com/file/d/1nxSUU3aq_64Vd-rrbJG9kvQaEmgin5iR/view?usp=drive_link",
       "notes": [
-        "Compatível com a nova atualização do FM27",
-    "Assistente de Treino agora funciona na Steam (versão usada por defeito)",
-    "Quem tem Steam e Game Pass pode escolher a versão na aba Treino",
-    "A Steam é encontrada mesmo instalada noutro disco ou pasta",
-    "Corrigido o erro ao carregar saves com bases de dados muito grandes",
-    "Ajuda: depois de mudar o onze inicial, abre a Eficácia táctica e usa Repor sugestão",
-    "Mais treino tático nas semanas com dois jogos",
+        "Nova atualização para dar fix a um bug no inicio da época",
     "Se encontrarem algum bug ou tiverem sugestões, é só avisarem-me"
       ]
     }
