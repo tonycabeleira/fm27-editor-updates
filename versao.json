@@ -1,12 +1,12 @@
     {
-      "version": "1.5.3",
+      "version": "1.5.6",
       "date": "2026-11-14",
       "url": "https://drive.google.com/file/d/1nxSUU3aq_64Vd-rrbJG9kvQaEmgin5iR/view?usp=drive_link",
       "notes": [
-      "Corrigido: o FM27 podia fechar ao mudar os limites na janela Elogio Total",
+      "Corrigido: o FM27 fechava no fim ou a meio de um lote grande de conversas no Elogio Total",
+  "Corrigido: a instalação do suporte de treino falhava quando havia restos de outro BepInEx no jogo",
   "Novo: botão Elogio Total também na mensagem Revisão do Treino e nas mensagens de treino",
   "Treino: 2 sessões de coesão da equipa por semana, 1 de desenvolvimento individual e o resto tático",
-  "Corrigido: clubes com nome comprido não eram reconhecidos no Treino",
-          "Corrigido: o FM27 podia fechar a meio de um lote grande de conversas no Elogio Total"
+  "Corrigido: clubes com nome comprido não eram reconhecidos no Treino"
       ]
     }
