@@ -1,12 +1,11 @@
     {
-      "version": "1.5.0",
+      "version": "1.5.1",
       "date": "2026-11-14",
       "url": "https://drive.google.com/file/d/1nxSUU3aq_64Vd-rrbJG9kvQaEmgin5iR/view?usp=drive_link",
       "notes": [
-       "Novo: botão e janela \"Elogio Total\" dentro do FM27 (Treino Individual), com fotos, posições e conversas sugeridas",
-    "Conversas de treino: elogiar/criticar pela evolução dos atributos, além da nota",
-    "Fotos dos jogadores a partir do facepack instalado",
-    "Corrigidos os nomes das áreas táticas (Criação de oportunidades, Estilo de passe, etc.)",
-    "Assistente de treinos funciona nas últimas semanas da época, sem jogos"
+      "Corrigido: o FM27 podia fechar ao mudar os limites na janela Elogio Total",
+  "Novo: botão Elogio Total também na mensagem Revisão do Treino e nas mensagens de treino",
+  "Treino: 2 sessões de coesão da equipa por semana, 1 de desenvolvimento individual e o resto tático",
+  "Corrigido: clubes com nome comprido não eram reconhecidos no Treino"
       ]
     }
