@@ -1,9 +1,12 @@
     {
-      "version": "1.4.1",
+      "version": "1.5.0",
       "date": "2026-11-6",
       "url": "https://drive.google.com/file/d/1nxSUU3aq_64Vd-rrbJG9kvQaEmgin5iR/view?usp=drive_link",
       "notes": [
-        "Nova atualização para dar fix a um bug no inicio da época",
-    "Se encontrarem algum bug ou tiverem sugestões, é só avisarem-me"
+       "Novo: botão e janela \"Elogio Total\" dentro do FM27 (Treino Individual), com fotos, posições e conversas sugeridas",
+    "Conversas de treino: elogiar/criticar pela evolução dos atributos, além da nota",
+    "Fotos dos jogadores a partir do facepack instalado",
+    "Corrigidos os nomes das áreas táticas (Criação de oportunidades, Estilo de passe, etc.)",
+    "Assistente de treinos funciona nas últimas semanas da época, sem jogos"
       ]
     }
