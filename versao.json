@@ -1,19 +1,13 @@
     {
-      "version": "1.7.0",
-      "date": "2026-11-16",
+      "version": "1.7.1",
+      "date": "2026-11-17",
       "url": "https://drive.google.com/file/d/1nxSUU3aq_64Vd-rrbJG9kvQaEmgin5iR/view?usp=drive_link",
       "notes": [
-      "Novo: aba Adversário, que lê o relatório do próximo adversário no FM27 e sugere como o contrariar (mentalidade, instruções, duelos e jogadores perigosos)",
-    "Novo: aba Análise da Tática, que lê a tua tática (formação, funções e instruções) e dá sugestões com os números do teu plantel",
-    "Novo: Tática base, que guarda a tua tática habitual e mostra o que repor depois de a mudares para um jogo",
-    "Novo: aba Tática para o Plantel, que testa 10 formações e sugere o melhor onze, as funções, o estilo e as instruções, explicando porquê",
-    "Treino individual sugerido para cada jogador, com os focos do FM27",
-    "A Tática para o Plantel deixa de fora os lesionados e os emprestados (com opção para os incluir)",
-    "Botão ❓ Ajuda dentro das abas novas e Ajuda atualizada, em português e inglês",
-    "Tudo o que é novo está também em inglês",
-    "Ao desinstalar a app, o plugin é removido do jogo; a janela da consola do BepInEx deixa de aparecer",
-    "Corrigido: o FM27 podia fechar ao usar o Elogio Total",
-    "Corrigido: a instalação do suporte de treino falhava com restos de outro BepInEx no jogo",
-    "IMPORTANTE: depois de instalar, carrega em Atualizar plugin na aba Treino, com o FM27 fechado"
+      "Corrigido: a equipa feminina aparecia misturada com a masculina quando têm o mesmo nome",
+    "Adversário: sugestões muito mais completas, a partir de todo o relatório (pontos fortes, fracos e instruções)",
+    "Adversário: o que já tens na tática fica em 'Já estás preparado', para o que é novo ficar à vista",
+    "Corrigido: na aba Adversário, algumas sugestões desapareciam e voltavam a aparecer",
+    "Treino: as sessões táticas vão para as áreas com o valor mais baixo, juntando com e sem posse numa só lista",
+    "Plugin 0.17.1: depois de instalar, carrega em Atualizar plugin na aba Treino, com o FM27 fechado"
       ]
     }
