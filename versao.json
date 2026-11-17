@@ -1,13 +1,8 @@
     {
-      "version": "1.7.1",
+      "version": "1.7.2",
       "date": "2026-11-17",
       "url": "https://drive.google.com/file/d/1nxSUU3aq_64Vd-rrbJG9kvQaEmgin5iR/view?usp=drive_link",
       "notes": [
-      "Corrigido: a equipa feminina aparecia misturada com a masculina quando têm o mesmo nome",
-    "Adversário: sugestões muito mais completas, a partir de todo o relatório (pontos fortes, fracos e instruções)",
-    "Adversário: o que já tens na tática fica em 'Já estás preparado', para o que é novo ficar à vista",
-    "Corrigido: na aba Adversário, algumas sugestões desapareciam e voltavam a aparecer",
-    "Treino: as sessões táticas vão para as áreas com o valor mais baixo, juntando com e sem posse numa só lista",
-    "Plugin 0.17.1: depois de instalar, carrega em Atualizar plugin na aba Treino, com o FM27 fechado"
+      "Correção de bugs da nova atualização do FM27"
       ]
     }
