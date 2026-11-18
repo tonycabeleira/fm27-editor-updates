@@ -1,8 +1,16 @@
     {
       "version": "1.7.2",
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "url": "https://drive.google.com/file/d/1nxSUU3aq_64Vd-rrbJG9kvQaEmgin5iR/view?usp=drive_link",
       "notes": [
-      "Correção de bugs da nova atualização do FM27"
+      "Correção de bugs da nova atualização do FM27",
+    "O calendário de jogos volta a ser lido",
+    "A data do jogo passa a ser lida pelo plugin",
+    "Treino: o plano já não fica vazio sem a data do jogo",
+    "Tática para o Plantel: instruções para a tática sugerida ou para a tua",
+    "Tática para o Plantel: mostra as instruções que mudam entre as duas",
+    "Opções com nomes diferentes no jogo passam a ser reconhecidas",
+    "Adversário: as abas do relatório já não se apagam umas às outras",
+    "Depois de instalar, carrega em \"Atualizar plugin\" com o FM27 fechado"
       ]
     }
